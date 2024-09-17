@@ -1,6 +1,6 @@
 # api id, hash
-API_ID = xxxx
-API_HASH = 'xxxxx'
+API_ID = 29707862
+API_HASH = 'a765955fb49b9930422d35cb6e4aa4ee'
 
 DELAYS = {
     "RELOGIN": [5, 7],  # trì hoãn sau lần thử đăng nhập
